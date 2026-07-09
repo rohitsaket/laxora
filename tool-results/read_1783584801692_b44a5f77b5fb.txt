@@ -1,0 +1,2002 @@
+     1→# 💎 LUXORA Enterprise Edition (v2)
+     2→
+     3→## Total Development Roadmap
+     4→
+     5→**50 Major Development Phases**
+     6→
+     7→---
+     8→
+     9→## PHASE 1 — Enterprise Planning & Research
+    10→
+    11→* Business Requirement Analysis
+    12→* User Personas
+    13→* Competitor Analysis
+    14→* Diamond Industry Workflow
+    15→* Jewelry Business Workflow
+    16→* Functional Requirements
+    17→* Non-functional Requirements
+    18→* System Architecture
+    19→* Technology Stack
+    20→* Project Milestones
+    21→* Risk Assessment
+    22→* Documentation
+    23→
+    24→---
+    25→
+    26→## PHASE 2 — UI/UX Research
+    27→
+    28→* Luxury Branding
+    29→* Moodboards
+    30→* Design Language
+    31→* Color Psychology
+    32→* Typography
+    33→* Component Library
+    34→* Wireframes
+    35→* User Journey
+    36→* UX Flows
+    37→* Accessibility
+    38→* Animation Principles
+    39→
+    40→---
+    41→
+    42→## PHASE 3 — Development Environment
+    43→
+    44→* Git Strategy
+    45→* Monorepo
+    46→* Docker
+    47→* Dev Containers
+    48→* Environment Variables
+    49→* CI/CD Base
+    50→* Linting
+    51→* Formatting
+    52→* Commit Standards
+    53→* Branch Protection
+    54→
+    55→---
+    56→
+    57→## PHASE 4 — Backend Architecture
+    58→
+    59→* FastAPI
+    60→* Service Layer
+    61→* Repository Pattern
+    62→* Dependency Injection
+    63→* Middleware
+    64→* Validation
+    65→* API Versioning
+    66→* Logging
+    67→* Exception Handling
+    68→* Background Jobs
+    69→
+    70→---
+    71→
+    72→## PHASE 5 — Database Engineering
+    73→
+    74→* MySQL Schema
+    75→* ER Diagrams
+    76→* Indexing
+    77→* Constraints
+    78→* Foreign Keys
+    79→* Audit Tables
+    80→* Migration System
+    81→* Backup Strategy
+    82→* Partitioning
+    83→* Optimization
+    84→
+    85→---
+    86→
+    87→## PHASE 6 — Authentication & Security Foundation
+    88→
+    89→* JWT
+    90→* Refresh Tokens
+    91→* MFA
+    92→* RBAC
+    93→* Session Management
+    94→* Device Management
+    95→* OAuth
+    96→* Secure Cookies
+    97→* Password Policies
+    98→* Encryption
+    99→
+   100→---
+   101→
+   102→## PHASE 7 — Design System
+   103→
+   104→* Design Tokens
+   105→* Components
+   106→* Icons
+   107→* Buttons
+   108→* Forms
+   109→* Tables
+   110→* Cards
+   111→* Alerts
+   112→* Animations
+   113→* Themes
+   114→
+   115→---
+   116→
+   117→## PHASE 8 — Global Layout
+   118→
+   119→* Header
+   120→* Footer
+   121→* Mega Menu
+   122→* Search
+   123→* Navigation
+   124→* Responsive Layout
+   125→* Mobile Menu
+   126→* Breadcrumbs
+   127→* Floating Actions
+   128→
+   129→---
+   130→
+   131→## PHASE 9 — Homepage Experience
+   132→
+   133→* Cinematic Hero
+   134→* Framer Motion
+   135→* Storytelling
+   136→* Collections
+   137→* Promotions
+   138→* Featured Diamonds
+   139→* Luxury Sections
+   140→* Testimonials
+   141→* Newsletter
+   142→
+   143→---
+   144→
+   145→## PHASE 10 — CMS
+   146→
+   147→* Dynamic Pages
+   148→* Landing Pages
+   149→* Blogs
+   150→* Announcements
+   151→* Homepage Builder
+   152→* SEO Content
+   153→* Rich Editor
+   154→* Media Library
+   155→
+   156→---
+   157→
+   158→## PHASE 11 — Product Management
+   159→
+   160→* Jewelry Products
+   161→* Diamond Products
+   162→* Categories
+   163→* Collections
+   164→* Product Variants
+   165→* Inventory
+   166→* Pricing
+   167→* Tags
+   168→* SEO
+   169→* Product Status
+   170→
+   171→---
+   172→
+   173→## PHASE 12 — Diamond Management
+   174→
+   175→* Shape
+   176→* Carat
+   177→* Color
+   178→* Clarity
+   179→* Cut
+   180→* Fluorescence
+   181→* Polish
+   182→* Symmetry
+   183→* Certificate
+   184→* Diamond Images
+   185→* Videos
+   186→
+   187→---
+   188→
+   189→## PHASE 13 — Product Media System
+   190→
+   191→* Multiple Images
+   192→* WebP
+   193→* AVIF
+   194→* Video
+   195→* 360 Images
+   196→* 3D Models
+   197→* CDN
+   198→* Compression
+   199→* Watermarks
+   200→
+   201→---
+   202→
+   203→## PHASE 14 — Product Detail Page
+   204→
+   205→* Gallery
+   206→* Zoom
+   207→* 360°
+   208→* 3D Viewer
+   209→* Specification Tabs
+   210→* Reviews
+   211→* Certificates
+   212→* Shipping
+   213→* Return Policy
+   214→* Warranty
+   215→
+   216→---
+   217→
+   218→## PHASE 15 — Diamond Search Engine
+   219→
+   220→* Advanced Filters
+   221→* AI Ranking
+   222→* Natural Language Search
+   223→* Voice Search
+   224→* Saved Searches
+   225→* Filter Presets
+   226→* Performance Optimization
+   227→
+   228→---
+   229→
+   230→## PHASE 16 — Jewelry Search
+   231→
+   232→* Collections
+   233→* Style
+   234→* Metal
+   235→* Gender
+   236→* Price
+   237→* Occasion
+   238→* Availability
+   239→* Smart Suggestions
+   240→
+   241→---
+   242→
+   243→## PHASE 17 — Recommendation Engine
+   244→
+   245→* AI Similar Products
+   246→* Frequently Bought Together
+   247→* Trending
+   248→* Recently Viewed
+   249→* Personalized Homepage
+   250→* Dynamic Ranking
+   251→
+   252→---
+   253→
+   254→## PHASE 18 — Wishlist
+   255→
+   256→* Multiple Wishlists
+   257→* Share Wishlist
+   258→* Wedding Registry
+   259→* Anniversary Lists
+   260→* Birthday Lists
+   261→* Public/Private Lists
+   262→
+   263→---
+   264→
+   265→## PHASE 19 — Shopping Cart
+   266→
+   267→* Luxury Cart
+   268→* Gift Options
+   269→* Insurance
+   270→* Warranty
+   271→* Coupons
+   272→* Tax
+   273→* Shipping
+   274→
+   275→---
+   276→
+   277→## PHASE 20 — Checkout
+   278→
+   279→* Address
+   280→* Shipping
+   281→* Payment
+   282→* EMI
+   283→* Fraud Detection
+   284→* Order Review
+   285→* Confirmation
+   286→
+   287→---
+   288→
+   289→## PHASE 21 — Payment Integration
+   290→
+   291→* Stripe
+   292→* Razorpay
+   293→* PayPal
+   294→* Apple Pay
+   295→* Google Pay
+   296→* UPI
+   297→* Refund API
+   298→* Webhooks
+   299→
+   300→---
+   301→
+   302→## PHASE 22 — Order Management
+   303→
+   304→* Order Flow
+   305→* Tracking
+   306→* Returns
+   307→* Exchanges
+   308→* Repairs
+   309→* Cancellation
+   310→* Invoice
+   311→
+   312→---
+   313→
+   314→## PHASE 23 — Customer Dashboard
+   315→
+   316→* Orders
+   317→* Wishlist
+   318→* Appointments
+   319→* Certificates
+   320→* Downloads
+   321→* Loyalty
+   322→* Notifications
+   323→
+   324→---
+   325→
+   326→## PHASE 24 — Custom Jewelry Builder
+   327→
+   328→* Build Ring
+   329→* Diamond Selection
+   330→* Setting
+   331→* Metal
+   332→* Engraving
+   333→* Live Pricing
+   334→* 3D Preview
+   335→* Save Draft
+   336→
+   337→---
+   338→
+   339→## PHASE 25 — Ring Size Intelligence
+   340→
+   341→* Ring Calculator
+   342→* Printable Guide
+   343→* International Conversion
+   344→* AI Suggestions
+   345→
+   346→---
+   347→
+   348→## PHASE 26 — Appointment System
+   349→
+   350→* Store Locator
+   351→* Virtual Meeting
+   352→* Calendar
+   353→* Reminders
+   354→* Staff Assignment
+   355→
+   356→---
+   357→
+   358→## PHASE 27 — Reviews & Community
+   359→
+   360→* Ratings
+   361→* Verified Buyers
+   362→* Images
+   363→* Videos
+   364→* Questions & Answers
+   365→* Moderation
+   366→
+   367→---
+   368→
+   369→## PHASE 28 — AI Shopping Assistant
+   370→
+   371→* Chatbot
+   372→* Product Advisor
+   373→* Gift Finder
+   374→* Style Advisor
+   375→* Diamond Expert
+   376→* Budget Planner
+   377→
+   378→---
+   379→
+   380→## PHASE 29 — Marketing Platform
+   381→
+   382→* Coupons
+   383→* Loyalty
+   384→* Referrals
+   385→* Promotions
+   386→* Flash Sales
+   387→* Email Automation
+   388→
+   389→---
+   390→
+   391→## PHASE 30 — Notification Service
+   392→
+   393→* Email
+   394→* SMS
+   395→* Push Notifications
+   396→* WhatsApp
+   397→* In-App Notifications
+   398→
+   399→---
+   400→
+   401→## PHASE 31 — Inventory Management
+   402→
+   403→* Warehouse
+   404→* Vendor
+   405→* Barcode
+   406→* QR Code
+   407→* Stock Alerts
+   408→* Transfers
+   409→
+   410→---
+   411→
+   412→## PHASE 32 — Vendor Portal
+   413→
+   414→* Vendor Login
+   415→* Diamond Upload
+   416→* Inventory Updates
+   417→* Purchase Orders
+   418→* Vendor Reports
+   419→
+   420→---
+   421→
+   422→## PHASE 33 — ERP Integration
+   423→
+   424→* Inventory Sync
+   425→* Accounting
+   426→* Purchase
+   427→* Sales
+   428→* Manufacturing
+   429→* Finance
+   430→
+   431→---
+   432→
+   433→## PHASE 34 — Shipping System
+   434→
+   435→* Courier APIs
+   436→* Labels
+   437→* Tracking
+   438→* Delivery Estimates
+   439→* Insurance
+   440→
+   441→---
+   442→
+   443→## PHASE 35 — Admin Dashboard
+   444→
+   445→* Dashboard
+   446→* Reports
+   447→* User Management
+   448→* CMS
+   449→* Product Control
+   450→* Promotions
+   451→
+   452→---
+   453→
+   454→## PHASE 36 — Business Intelligence
+   455→
+   456→* Revenue
+   457→* Sales
+   458→* Funnel
+   459→* Customer Analytics
+   460→* AI Forecasting
+   461→* Inventory Forecasting
+   462→
+   463→---
+   464→
+   465→## PHASE 37 — SEO Platform
+   466→
+   467→* Structured Data
+   468→* Sitemap
+   469→* Canonical URLs
+   470→* Robots
+   471→* Schema
+   472→* Metadata
+   473→
+   474→---
+   475→
+   476→## PHASE 38 — Performance Engineering
+   477→
+   478→* Lazy Loading
+   479→* Code Splitting
+   480→* Edge Caching
+   481→* Redis
+   482→* Image Optimization
+   483→* Database Tuning
+   484→
+   485→---
+   486→
+   487→## PHASE 39 — Security Engineering
+   488→
+   489→* OWASP Top 10
+   490→* CSP
+   491→* CSRF
+   492→* XSS
+   493→* SQL Injection Prevention
+   494→* Rate Limiting
+   495→* Secrets Management
+   496→
+   497→---
+   498→
+   499→## PHASE 40 — Testing Framework
+   500→
+   501→* Unit
+   502→* Integration
+   503→* API
+   504→* E2E
+   505→* Accessibility
+   506→* Visual Regression
+   507→* Security
+   508→* Performance
+   509→
+   510→---
+   511→
+   512→## PHASE 41 — DevOps
+   513→
+   514→* Docker
+   515→* Kubernetes
+   516→* GitHub Actions
+   517→* Monitoring
+   518→* Logging
+   519→* Alerts
+   520→
+   521→---
+   522→
+   523→## PHASE 42 — Cloud Infrastructure
+   524→
+   525→* CDN
+   526→* Object Storage
+   527→* Auto Scaling
+   528→* Load Balancers
+   529→* Disaster Recovery
+   530→
+   531→---
+   532→
+   533→## PHASE 43 — AI Analytics Platform
+   534→
+   535→* Customer Segmentation
+   536→* Churn Prediction
+   537→* Demand Forecasting
+   538→* Smart Pricing
+   539→* Recommendation Training
+   540→
+   541→---
+   542→
+   543→## PHASE 44 — Machine Learning Pipeline
+   544→
+   545→* Data Collection
+   546→* Feature Engineering
+   547→* Model Training
+   548→* Evaluation
+   549→* Deployment
+   550→* Monitoring
+   551→
+   552→---
+   553→
+   554→## PHASE 45 — Internationalization
+   555→
+   556→* Multi-language
+   557→* Multi-currency
+   558→* Regional Taxes
+   559→* Localization
+   560→* Country Rules
+   561→
+   562→---
+   563→
+   564→## PHASE 46 — Mobile Ecosystem
+   565→
+   566→* Progressive Web App
+   567→* Android App
+   568→* iOS App
+   569→* Push Notifications
+   570→* Offline Mode
+   571→
+   572→---
+   573→
+   574→## PHASE 47 — AR/VR Experience
+   575→
+   576→* Virtual Try-On
+   577→* Ring Placement
+   578→* Necklace Preview
+   579→* Bracelet Preview
+   580→* 3D Showroom
+   581→
+   582→---
+   583→
+   584→## PHASE 48 — Enterprise Integrations
+   585→
+   586→* CRM
+   587→* ERP
+   588→* Payment Gateways
+   589→* Shipping APIs
+   590→* Marketing APIs
+   591→* AI APIs
+   592→
+   593→---
+   594→
+   595→## PHASE 49 — Production Launch
+   596→
+   597→* Security Audit
+   598→* Load Testing
+   599→* UAT
+   600→* Staging
+   601→* Blue-Green Deployment
+   602→* Rollback Strategy
+   603→* Go-Live Checklist
+   604→
+   605→---
+   606→
+   607→## PHASE 50 — Continuous Innovation
+   608→
+   609→* AI Concierge
+   610→* Live Shopping
+   611→* Blockchain Certificate Verification
+   612→* Digital Jewelry Passport
+   613→* NFT Ownership Certificate (optional)
+   614→* Sustainability Tracking
+   615→* Omnichannel Commerce
+   616→* Headless Commerce APIs
+   617→* Voice Commerce
+   618→* Predictive Personalization
+   619→
+   620→---
+   621→
+   622→# 🏗 Recommended Enterprise Technology Stack
+   623→
+   624→| Layer            | Technology                                      |
+   625→| ---------------- | ----------------------------------------------- |
+   626→| Frontend         | React + TypeScript + Vite                       |
+   627→| UI               | Tailwind CSS + Shadcn UI + Framer Motion + GSAP |
+   628→| 3D               | Three.js + React Three Fiber + Drei             |
+   629→| State            | Redux Toolkit + React Query + Zustand           |
+   630→| Forms            | React Hook Form + Zod                           |
+   631→| Backend          | Python + FastAPI                                |
+   632→| ORM              | SQLAlchemy + Alembic                            |
+   633→| Database         | MySQL + Redis                                   |
+   634→| Search           | Elasticsearch or OpenSearch                     |
+   635→| Object Storage   | Amazon S3-compatible storage                    |
+   636→| Background Jobs  | Celery + Redis                                  |
+   637→| AI               | OpenAI-compatible APIs + LangGraph + LlamaIndex |
+   638→| Authentication   | JWT + OAuth 2.0 + MFA                           |
+   639→| Monitoring       | Prometheus + Grafana                            |
+   640→| Logging          | Loki + Grafana                                  |
+   641→| Reverse Proxy    | Nginx                                           |
+   642→| Containerization | Docker + Docker Compose                         |
+   643→| Orchestration    | Kubernetes (production)                         |
+   644→| CI/CD            | GitHub Actions                                  |
+   645→| CDN              | Cloudflare                                      |
+   646→
+   647→## Final Vision
+   648→
+   649→This expanded roadmap represents a **production-scale enterprise architecture** rather than a standard ecommerce application. It separates every major subsystem—frontend experience, AI, search, inventory, ERP integration, DevOps, analytics, security, internationalization, and future innovation—into dedicated phases. The result is a platform that is designed for long-term scalability, maintainability, and global expansion while delivering a luxury customer experience with advanced UI/UX, 3D visualization, AI-assisted shopping, and enterprise-grade operational capabilities.
+   650→
+   651→
+   652→
+   653→# 💎 LUXORA Enterprise Edition — Phase 1 Master Development Prompt
+   654→
+   655→## Enterprise Planning, Research & System Foundation
+   656→
+   657→You are a Senior Enterprise Software Architect, Senior UI/UX Architect, Senior Python Backend Architect, Senior React Architect, Senior Database Architect, Senior DevOps Engineer, Senior Cloud Architect, Senior Security Engineer, Senior QA Engineer, and Senior AI Solution Architect.
+   658→
+   659→Your mission is to design and build **LUXORA**, a world-class Diamond & Jewelry Ecommerce Platform. This is a real production enterprise application, not a demo or tutorial. Every decision must prioritize scalability, maintainability, security, performance, accessibility, clean architecture, and enterprise software engineering best practices.
+   660→
+   661→---
+   662→
+   663→# Primary Objective
+   664→
+   665→Complete **Phase 1** by creating the entire project foundation before any feature development begins.
+   666→
+   667→Do not build ecommerce pages yet.
+   668→
+   669→Instead, establish a robust enterprise architecture that will support all future development phases without requiring structural refactoring.
+   670→
+   671→---
+   672→
+   673→# Technology Stack
+   674→
+   675→## Frontend
+   676→
+   677→* React (Latest)
+   678→* TypeScript
+   679→* Vite
+   680→* Tailwind CSS
+   681→* Shadcn UI
+   682→* Framer Motion
+   683→* React Router
+   684→* React Query (TanStack Query)
+   685→* Zustand
+   686→* React Hook Form
+   687→* Zod
+   688→
+   689→---
+   690→
+   691→## Backend
+   692→
+   693→* Python 3.13+
+   694→* FastAPI
+   695→* SQLAlchemy
+   696→* Alembic
+   697→* Pydantic v2
+   698→* Celery
+   699→* Redis
+   700→* JWT Authentication (foundation only)
+   701→
+   702→---
+   703→
+   704→## Database
+   705→
+   706→* MySQL 8+
+   707→
+   708→---
+   709→
+   710→## Cache
+   711→
+   712→* Redis
+   713→
+   714→---
+   715→
+   716→## Object Storage
+   717→
+   718→Design storage abstraction supporting:
+   719→
+   720→* Local Storage
+   721→* MinIO
+   722→* Amazon S3
+   723→
+   724→without changing business logic.
+   725→
+   726→---
+   727→
+   728→# Development Standards
+   729→
+   730→Every file must follow:
+   731→
+   732→* SOLID Principles
+   733→* Clean Architecture
+   734→* DRY
+   735→* KISS
+   736→* Separation of Concerns
+   737→* Dependency Injection
+   738→* Repository Pattern
+   739→* Service Layer Pattern
+   740→* Domain Driven Design (DDD)
+   741→* Modular Architecture
+   742→* Enterprise Folder Structure
+   743→* Type Safety
+   744→* Strict TypeScript
+   745→* Async Programming
+   746→* REST API Best Practices
+   747→* API Versioning
+   748→* Secure Coding Practices
+   749→
+   750→---
+   751→
+   752→# Monorepo Structure
+   753→
+   754→Design a scalable monorepo similar to enterprise software.
+   755→
+   756→Example structure:
+   757→
+   758→/apps
+   759→/frontend
+   760→/backend
+   761→
+   762→/packages
+   763→/ui
+   764→/types
+   765→/utils
+   766→/config
+   767→/design-system
+   768→/hooks
+   769→
+   770→/infrastructure
+   771→/docker
+   772→/nginx
+   773→/kubernetes
+   774→
+   775→/database
+   776→/migrations
+   777→/schema
+   778→/seeds
+   779→
+   780→/scripts
+   781→
+   782→/docs
+   783→
+   784→/tests
+   785→
+   786→/tools
+   787→
+   788→.github
+   789→
+   790→The structure must remain scalable for future mobile apps, AI services, and microservices.
+   791→
+   792→---
+   793→
+   794→# Folder Architecture
+   795→
+   796→Every module must have clear separation:
+   797→
+   798→* API
+   799→* Routes
+   800→* Controllers
+   801→* Services
+   802→* Repositories
+   803→* Models
+   804→* Schemas
+   805→* DTOs
+   806→* Middleware
+   807→* Validators
+   808→* Exceptions
+   809→* Utilities
+   810→* Configuration
+   811→* Constants
+   812→* Helpers
+   813→* Tests
+   814→
+   815→No business logic inside routes or controllers.
+   816→
+   817→---
+   818→
+   819→# Environment Management
+   820→
+   821→Create environment configuration for:
+   822→
+   823→Development
+   824→
+   825→Testing
+   826→
+   827→Staging
+   828→
+   829→Production
+   830→
+   831→Support:
+   832→
+   833→.env.example
+   834→
+   835→Validation
+   836→
+   837→Secret Management
+   838→
+   839→Typed Configuration
+   840→
+   841→No hardcoded secrets.
+   842→
+   843→---
+   844→
+   845→# Docker
+   846→
+   847→Create:
+   848→
+   849→Dockerfile (Frontend)
+   850→
+   851→Dockerfile (Backend)
+   852→
+   853→Docker Compose
+   854→
+   855→MySQL Container
+   856→
+   857→Redis Container
+   858→
+   859→Volumes
+   860→
+   861→Networking
+   862→
+   863→Health Checks
+   864→
+   865→Hot Reload
+   866→
+   867→Development Profile
+   868→
+   869→Production-ready Structure
+   870→
+   871→---
+   872→
+   873→# Git Strategy
+   874→
+   875→Configure:
+   876→
+   877→.gitignore
+   878→
+   879→.editorconfig
+   880→
+   881→Conventional Commits
+   882→
+   883→Feature Branch Workflow
+   884→
+   885→Git Hooks
+   886→
+   887→Husky
+   888→
+   889→Lint Staged
+   890→
+   891→Commit Validation
+   892→
+   893→---
+   894→
+   895→# Code Quality
+   896→
+   897→Configure:
+   898→
+   899→ESLint
+   900→
+   901→Prettier
+   902→
+   903→Type Checking
+   904→
+   905→Python Formatting
+   906→
+   907→Python Linting
+   908→
+   909→Import Sorting
+   910→
+   911→Dead Code Detection
+   912→
+   913→Static Analysis
+   914→
+   915→---
+   916→
+   917→# Backend Foundation
+   918→
+   919→Configure:
+   920→
+   921→FastAPI Application
+   922→
+   923→Application Factory
+   924→
+   925→Dependency Injection
+   926→
+   927→Global Exception Handler
+   928→
+   929→Logging
+   930→
+   931→Health Endpoint
+   932→
+   933→Version Endpoint
+   934→
+   935→OpenAPI Configuration
+   936→
+   937→Middleware
+   938→
+   939→CORS
+   940→
+   941→Compression
+   942→
+   943→Rate Limiting Foundation
+   944→
+   945→Request Validation
+   946→
+   947→Response Standardization
+   948→
+   949→---
+   950→
+   951→# Database Foundation
+   952→
+   953→Prepare database architecture for:
+   954→
+   955→Users
+   956→
+   957→Products
+   958→
+   959→Diamonds
+   960→
+   961→Categories
+   962→
+   963→Collections
+   964→
+   965→Orders
+   966→
+   967→Payments
+   968→
+   969→Addresses
+   970→
+   971→Reviews
+   972→
+   973→Wishlist
+   974→
+   975→Appointments
+   976→
+   977→Inventory
+   978→
+   979→Audit Logs
+   980→
+   981→Role Management
+   982→
+   983→Permissions
+   984→
+   985→Notifications
+   986→
+   987→Coupons
+   988→
+   989→Analytics
+   990→
+   991→Only create the architecture and migration foundation.
+   992→
+   993→Do not implement business features.
+   994→
+   995→---
+   996→
+   997→# API Standards
+   998→
+   999→Every API must follow:
+  1000→
+  1001→REST
+  1002→
+  1003→/api/v1/
+  1004→
+  1005→JSON Responses
+  1006→
+  1007→Pagination
+  1008→
+  1009→Filtering
+  1010→
+  1011→Sorting
+  1012→
+  1013→Search
+  1014→
+  1015→Standard Response Format
+  1016→
+  1017→Error Codes
+  1018→
+  1019→Validation
+  1020→
+  1021→Documentation
+  1022→
+  1023→---
+  1024→
+  1025→# Logging
+  1026→
+  1027→Implement enterprise logging architecture supporting:
+  1028→
+  1029→Application Logs
+  1030→
+  1031→Error Logs
+  1032→
+  1033→Audit Logs
+  1034→
+  1035→Performance Logs
+  1036→
+  1037→Security Logs
+  1038→
+  1039→Structured JSON Logs
+  1040→
+  1041→Log Rotation
+  1042→
+  1043→---
+  1044→
+  1045→# Security Foundation
+  1046→
+  1047→Prepare architecture for:
+  1048→
+  1049→JWT
+  1050→
+  1051→Refresh Tokens
+  1052→
+  1053→RBAC
+  1054→
+  1055→MFA
+  1056→
+  1057→Password Hashing
+  1058→
+  1059→Encryption
+  1060→
+  1061→Rate Limiting
+  1062→
+  1063→CORS
+  1064→
+  1065→Security Headers
+  1066→
+  1067→Secure Cookies
+  1068→
+  1069→Input Validation
+  1070→
+  1071→Output Sanitization
+  1072→
+  1073→OWASP Best Practices
+  1074→
+  1075→No authentication pages yet.
+  1076→
+  1077→---
+  1078→
+  1079→# Frontend Foundation
+  1080→
+  1081→Configure:
+  1082→
+  1083→React
+  1084→
+  1085→Vite
+  1086→
+  1087→TypeScript
+  1088→
+  1089→Tailwind
+  1090→
+  1091→Shadcn
+  1092→
+  1093→Framer Motion
+  1094→
+  1095→React Router
+  1096→
+  1097→State Management
+  1098→
+  1099→Theme Provider
+  1100→
+  1101→Dark Mode Foundation
+  1102→
+  1103→Toast System
+  1104→
+  1105→Loading System
+  1106→
+  1107→Modal System
+  1108→
+  1109→Layout System
+  1110→
+  1111→Error Boundary
+  1112→
+  1113→API Client
+  1114→
+  1115→Environment Configuration
+  1116→
+  1117→---
+  1118→
+  1119→# Design System Foundation
+  1120→
+  1121→Create:
+  1122→
+  1123→Color Tokens
+  1124→
+  1125→Typography Tokens
+  1126→
+  1127→Spacing Tokens
+  1128→
+  1129→Radius Tokens
+  1130→
+  1131→Shadow Tokens
+  1132→
+  1133→Animation Tokens
+  1134→
+  1135→Z-index Tokens
+  1136→
+  1137→Breakpoints
+  1138→
+  1139→Container Sizes
+  1140→
+  1141→Theme Variables
+  1142→
+  1143→Do not build UI pages yet.
+  1144→
+  1145→---
+  1146→
+  1147→# Documentation
+  1148→
+  1149→Generate:
+  1150→
+  1151→README
+  1152→
+  1153→Architecture Documentation
+  1154→
+  1155→Folder Structure Documentation
+  1156→
+  1157→Development Guide
+  1158→
+  1159→Coding Standards
+  1160→
+  1161→Git Workflow
+  1162→
+  1163→Environment Setup
+  1164→
+  1165→Docker Guide
+  1166→
+  1167→API Standards
+  1168→
+  1169→Contribution Guide
+  1170→
+  1171→---
+  1172→
+  1173→# CI/CD Foundation
+  1174→
+  1175→Prepare pipelines for:
+  1176→
+  1177→Install
+  1178→
+  1179→Lint
+  1180→
+  1181→Build
+  1182→
+  1183→Type Check
+  1184→
+  1185→Tests
+  1186→
+  1187→Docker Build
+  1188→
+  1189→Security Scan
+  1190→
+  1191→Deployment Ready Structure
+  1192→
+  1193→---
+  1194→
+  1195→# Deliverables
+  1196→
+  1197→At the end of Phase 1, generate:
+  1198→
+  1199→1. Complete enterprise project architecture.
+  1200→2. Production-ready folder structure.
+  1201→3. Monorepo organization.
+  1202→4. Development standards documentation.
+  1203→5. Docker environment.
+  1204→6. CI/CD foundation.
+  1205→7. Backend foundation.
+  1206→8. Frontend foundation.
+  1207→9. Database architecture.
+  1208→10. Design token foundation.
+  1209→11. Environment management.
+  1210→12. Security foundation.
+  1211→13. Logging foundation.
+  1212→14. API standards.
+  1213→15. Technical documentation.
+  1214→
+  1215→---
+  1216→
+  1217→# Rules
+  1218→
+  1219→* Do not create ecommerce features.
+  1220→* Do not create product pages.
+  1221→* Do not create authentication screens.
+  1222→* Do not create business logic.
+  1223→* Do not skip architecture documentation.
+  1224→* Do not use placeholder code.
+  1225→* Use scalable, modular, enterprise-grade architecture.
+  1226→* Ensure every component is reusable, testable, and production-ready.
+  1227→* Preserve backward compatibility for future phases and avoid breaking folder structures, routes, APIs, or database migration history.
+  1228→
+  1229→Build Phase 1 as if this platform will support millions of users, multiple countries, multiple brands, thousands of concurrent requests, and long-term enterprise maintenance.
+  1230→
+  1231→
+  1232→# 💎 LUXORA Enterprise Edition — Phase 2 Master Development Prompt
+  1233→
+  1234→## Luxury Design System (Enterprise UI Foundation)
+  1235→
+  1236→You are a Senior Product Designer, Luxury Brand Designer, Senior UI/UX Architect, Senior Frontend Architect, Design System Engineer, Accessibility Specialist, Motion Designer, and Design Token Architect.
+  1237→
+  1238→Your mission is to create the complete **Luxury Design System** for the LUXORA Diamond & Jewelry Ecommerce Platform.
+  1239→
+  1240→This phase does **NOT** include ecommerce pages or business logic.
+  1241→
+  1242→The goal is to build a reusable, enterprise-grade design system that every future page and component will use.
+  1243→
+  1244→The design language must reflect luxury, elegance, trust, craftsmanship, exclusivity, and premium shopping experiences comparable to the world's leading luxury jewelry brands.
+  1245→
+  1246→---
+  1247→
+  1248→# Primary Objective
+  1249→
+  1250→Build a production-ready Design System that includes:
+  1251→
+  1252→* Design Tokens
+  1253→* Color System
+  1254→* Typography System
+  1255→* Spacing System
+  1256→* Component Library
+  1257→* Motion Guidelines
+  1258→* Accessibility Standards
+  1259→* Theme Architecture
+  1260→* Icon System
+  1261→* Premium Visual Effects
+  1262→
+  1263→Everything must be reusable, scalable, and maintainable.
+  1264→
+  1265→---
+  1266→
+  1267→# Design Philosophy
+  1268→
+  1269→The platform should communicate:
+  1270→
+  1271→* Luxury
+  1272→* Elegance
+  1273→* Premium Quality
+  1274→* Trust
+  1275→* Sophistication
+  1276→* Modern Minimalism
+  1277→* High-End Retail Experience
+  1278→* Timeless Design
+  1279→
+  1280→Avoid:
+  1281→
+  1282→* Bright rainbow colors
+  1283→* Cartoon styling
+  1284→* Cheap ecommerce appearance
+  1285→* Excessive gradients
+  1286→* Busy layouts
+  1287→* Inconsistent spacing
+  1288→* Generic templates
+  1289→
+  1290→The UI must feel like a premium international jewelry brand.
+  1291→
+  1292→---
+  1293→
+  1294→# Color System
+  1295→
+  1296→Create semantic design tokens for:
+  1297→
+  1298→## Primary Colors
+  1299→
+  1300→Luxury Gold
+  1301→
+  1302→Champagne Gold
+  1303→
+  1304→Rose Gold
+  1305→
+  1306→White Gold
+  1307→
+  1308→Platinum
+  1309→
+  1310→Diamond White
+  1311→
+  1312→Pearl
+  1313→
+  1314→Ivory
+  1315→
+  1316→Black Onyx
+  1317→
+  1318→Graphite
+  1319→
+  1320→Charcoal
+  1321→
+  1322→Luxury Navy
+  1323→
+  1324→Deep Emerald
+  1325→
+  1326→Royal Burgundy
+  1327→
+  1328→---
+  1329→
+  1330→## Semantic Colors
+  1331→
+  1332→Primary
+  1333→
+  1334→Secondary
+  1335→
+  1336→Accent
+  1337→
+  1338→Success
+  1339→
+  1340→Warning
+  1341→
+  1342→Error
+  1343→
+  1344→Info
+  1345→
+  1346→Background
+  1347→
+  1348→Surface
+  1349→
+  1350→Card
+  1351→
+  1352→Border
+  1353→
+  1354→Divider
+  1355→
+  1356→Overlay
+  1357→
+  1358→Disabled
+  1359→
+  1360→Hover
+  1361→
+  1362→Focus
+  1363→
+  1364→Selection
+  1365→
+  1366→Skeleton
+  1367→
+  1368→---
+  1369→
+  1370→## Dark Theme
+  1371→
+  1372→Design a premium dark luxury theme.
+  1373→
+  1374→Not pure black.
+  1375→
+  1376→Use layered dark surfaces.
+  1377→
+  1378→Maintain accessibility.
+  1379→
+  1380→---
+  1381→
+  1382→## Light Theme
+  1383→
+  1384→Elegant white luxury appearance.
+  1385→
+  1386→Soft contrast.
+  1387→
+  1388→Premium feel.
+  1389→
+  1390→---
+  1391→
+  1392→# Typography System
+  1393→
+  1394→Create typography tokens.
+  1395→
+  1396→Display XXL
+  1397→
+  1398→Display XL
+  1399→
+  1400→Display Large
+  1401→
+  1402→Heading 1
+  1403→
+  1404→Heading 2
+  1405→
+  1406→Heading 3
+  1407→
+  1408→Heading 4
+  1409→
+  1410→Heading 5
+  1411→
+  1412→Heading 6
+  1413→
+  1414→Subtitle
+  1415→
+  1416→Body Large
+  1417→
+  1418→Body Medium
+  1419→
+  1420→Body Small
+  1421→
+  1422→Caption
+  1423→
+  1424→Label
+  1425→
+  1426→Button
+  1427→
+  1428→Navigation
+  1429→
+  1430→Price
+  1431→
+  1432→Badge
+  1433→
+  1434→Legal
+  1435→
+  1436→Every typography style must include:
+  1437→
+  1438→Font Size
+  1439→
+  1440→Weight
+  1441→
+  1442→Letter Spacing
+  1443→
+  1444→Line Height
+  1445→
+  1446→Responsive Scaling
+  1447→
+  1448→---
+  1449→
+  1450→# Spacing System
+  1451→
+  1452→Use 8px Grid.
+  1453→
+  1454→Create tokens for:
+  1455→
+  1456→2
+  1457→
+  1458→4
+  1459→
+  1460→8
+  1461→
+  1462→12
+  1463→
+  1464→16
+  1465→
+  1466→20
+  1467→
+  1468→24
+  1469→
+  1470→32
+  1471→
+  1472→40
+  1473→
+  1474→48
+  1475→
+  1476→56
+  1477→
+  1478→64
+  1479→
+  1480→80
+  1481→
+  1482→96
+  1483→
+  1484→120
+  1485→
+  1486→160
+  1487→
+  1488→---
+  1489→
+  1490→# Border Radius
+  1491→
+  1492→Tokens
+  1493→
+  1494→XS
+  1495→
+  1496→SM
+  1497→
+  1498→MD
+  1499→
+  1500→LG
+  1501→
+  1502→XL
+  1503→
+  1504→2XL
+  1505→
+  1506→3XL
+  1507→
+  1508→Full
+  1509→
+  1510→---
+  1511→
+  1512→# Shadow System
+  1513→
+  1514→Create luxury shadow tokens.
+  1515→
+  1516→Soft Shadow
+  1517→
+  1518→Card Shadow
+  1519→
+  1520→Floating Shadow
+  1521→
+  1522→Dropdown Shadow
+  1523→
+  1524→Luxury Glow
+  1525→
+  1526→Glass Shadow
+  1527→
+  1528→Modal Shadow
+  1529→
+  1530→Popover Shadow
+  1531→
+  1532→Hover Shadow
+  1533→
+  1534→---
+  1535→
+  1536→# Glassmorphism
+  1537→
+  1538→Design premium glass surfaces.
+  1539→
+  1540→Navigation
+  1541→
+  1542→Cards
+  1543→
+  1544→Dialogs
+  1545→
+  1546→Search
+  1547→
+  1548→Floating Buttons
+  1549→
+  1550→Avoid overusing blur.
+  1551→
+  1552→Maintain performance.
+  1553→
+  1554→---
+  1555→
+  1556→# Gradients
+  1557→
+  1558→Create premium gradients.
+  1559→
+  1560→Luxury Gold
+  1561→
+  1562→Champagne
+  1563→
+  1564→Rose Gold
+  1565→
+  1566→Diamond Shine
+  1567→
+  1568→Luxury Black
+  1569→
+  1570→Royal Blue
+  1571→
+  1572→Emerald
+  1573→
+  1574→Bridal White
+  1575→
+  1576→Use gradients only where appropriate.
+  1577→
+  1578→---
+  1579→
+  1580→# Icon System
+  1581→
+  1582→Prepare consistent icon guidelines.
+  1583→
+  1584→Navigation
+  1585→
+  1586→Commerce
+  1587→
+  1588→Jewelry
+  1589→
+  1590→Diamond
+  1591→
+  1592→Checkout
+  1593→
+  1594→User
+  1595→
+  1596→Settings
+  1597→
+  1598→Admin
+  1599→
+  1600→Analytics
+  1601→
+  1602→Security
+  1603→
+  1604→Marketing
+  1605→
+  1606→Support
+  1607→
+  1608→Notifications
+  1609→
+  1610→Use one icon family consistently.
+  1611→
+  1612→---
+  1613→
+  1614→# Component Library
+  1615→
+  1616→Design reusable enterprise components.
+  1617→
+  1618→Buttons
+  1619→
+  1620→Icon Buttons
+  1621→
+  1622→Floating Buttons
+  1623→
+  1624→Cards
+  1625→
+  1626→Luxury Product Cards
+  1627→
+  1628→Input Fields
+  1629→
+  1630→Password Fields
+  1631→
+  1632→OTP Inputs
+  1633→
+  1634→Textareas
+  1635→
+  1636→Checkboxes
+  1637→
+  1638→Radio Buttons
+  1639→
+  1640→Switches
+  1641→
+  1642→Dropdowns
+  1643→
+  1644→Comboboxes
+  1645→
+  1646→Autocomplete
+  1647→
+  1648→Badges
+  1649→
+  1650→Tags
+  1651→
+  1652→Chips
+  1653→
+  1654→Tabs
+  1655→
+  1656→Accordion
+  1657→
+  1658→Timeline
+  1659→
+  1660→Progress Bars
+  1661→
+  1662→Pagination
+  1663→
+  1664→Breadcrumbs
+  1665→
+  1666→Alerts
+  1667→
+  1668→Toast
+  1669→
+  1670→Snackbar
+  1671→
+  1672→Tooltip
+  1673→
+  1674→Popover
+  1675→
+  1676→Modal
+  1677→
+  1678→Drawer
+  1679→
+  1680→Sidebar
+  1681→
+  1682→Navbar
+  1683→
+  1684→Mega Menu
+  1685→
+  1686→Footer
+  1687→
+  1688→Avatar
+  1689→
+  1690→Skeleton Loader
+  1691→
+  1692→Spinner
+  1693→
+  1694→Empty States
+  1695→
+  1696→Error States
+  1697→
+  1698→Loading States
+  1699→
+  1700→Search Bar
+  1701→
+  1702→Filter Panel
+  1703→
+  1704→Table
+  1705→
+  1706→Data Grid
+  1707→
+  1708→Calendar
+  1709→
+  1710→Date Picker
+  1711→
+  1712→File Upload
+  1713→
+  1714→Image Upload
+  1715→
+  1716→Carousel
+  1717→
+  1718→Rating
+  1719→
+  1720→Step Indicator
+  1721→
+  1722→Price Display
+  1723→
+  1724→Quantity Selector
+  1725→
+  1726→Wishlist Button
+  1727→
+  1728→Favorite Button
+  1729→
+  1730→Share Button
+  1731→
+  1732→---
+  1733→
+  1734→# Motion Design
+  1735→
+  1736→Use Framer Motion.
+  1737→
+  1738→Create motion standards for:
+  1739→
+  1740→Page Transition
+  1741→
+  1742→Section Reveal
+  1743→
+  1744→Fade
+  1745→
+  1746→Scale
+  1747→
+  1748→Rotate
+  1749→
+  1750→Slide
+  1751→
+  1752→Parallax
+  1753→
+  1754→Hero Animation
+  1755→
+  1756→Product Hover
+  1757→
+  1758→Card Hover
+  1759→
+  1760→Button Hover
+  1761→
+  1762→Micro Interactions
+  1763→
+  1764→Scroll Animations
+  1765→
+  1766→Modal Animation
+  1767→
+  1768→Drawer Animation
+  1769→
+  1770→Loading Animation
+  1771→
+  1772→Exit Animation
+  1773→
+  1774→Gesture Animation
+  1775→
+  1776→Spring Configuration
+  1777→
+  1778→Animation Timing
+  1779→
+  1780→Animation Tokens
+  1781→
+  1782→Animations must be smooth and premium.
+  1783→
+  1784→No excessive movement.
+  1785→
+  1786→---
+  1787→
+  1788→# Responsive System
+  1789→
+  1790→Design breakpoints.
+  1791→
+  1792→Mobile
+  1793→
+  1794→Tablet
+  1795→
+  1796→Laptop
+  1797→
+  1798→Desktop
+  1799→
+  1800→Ultra Wide
+  1801→
+  1802→4K Displays
+  1803→
+  1804→Large TV Displays
+  1805→
+  1806→All components must be responsive.
+  1807→
+  1808→---
+  1809→
+  1810→# Accessibility
+  1811→
+  1812→Follow WCAG 2.2 AA.
+  1813→
+  1814→Keyboard Navigation
+  1815→
+  1816→Screen Reader Support
+  1817→
+  1818→Focus Indicators
+  1819→
+  1820→Contrast Ratio
+  1821→
+  1822→Reduced Motion
+  1823→
+  1824→ARIA Labels
+  1825→
+  1826→Touch Targets
+  1827→
+  1828→Semantic HTML
+  1829→
+  1830→Accessible Forms
+  1831→
+  1832→---
+  1833→
+  1834→# Theme Architecture
+  1835→
+  1836→Create scalable theme support.
+  1837→
+  1838→Light Theme
+  1839→
+  1840→Dark Theme
+  1841→
+  1842→Luxury Theme
+  1843→
+  1844→Seasonal Theme
+  1845→
+  1846→Future Brand Themes
+  1847→
+  1848→No duplicated styling.
+  1849→
+  1850→Everything must use design tokens.
+  1851→
+  1852→---
+  1853→
+  1854→# Design Token Structure
+  1855→
+  1856→Create centralized tokens for:
+  1857→
+  1858→Colors
+  1859→
+  1860→Typography
+  1861→
+  1862→Spacing
+  1863→
+  1864→Radius
+  1865→
+  1866→Shadow
+  1867→
+  1868→Animation
+  1869→
+  1870→Opacity
+  1871→
+  1872→Blur
+  1873→
+  1874→Z-index
+  1875→
+  1876→Breakpoints
+  1877→
+  1878→Containers
+  1879→
+  1880→Grid
+  1881→
+  1882→Transitions
+  1883→
+  1884→Timing
+  1885→
+  1886→Elevation
+  1887→
+  1888→---
+  1889→
+  1890→# File Organization
+  1891→
+  1892→Separate:
+  1893→
+  1894→Design Tokens
+  1895→
+  1896→Components
+  1897→
+  1898→Layouts
+  1899→
+  1900→Animations
+  1901→
+  1902→Utilities
+  1903→
+  1904→Hooks
+  1905→
+  1906→Icons
+  1907→
+  1908→Themes
+  1909→
+  1910→Typography
+  1911→
+  1912→Styles
+  1913→
+  1914→Documentation
+  1915→
+  1916→Every component must be independent and reusable.
+  1917→
+  1918→---
+  1919→
+  1920→# Documentation
+  1921→
+  1922→Generate documentation for:
+  1923→
+  1924→Color Guidelines
+  1925→
+  1926→Typography Rules
+  1927→
+  1928→Spacing Rules
+  1929→
+  1930→Component Usage
+  1931→
+  1932→Accessibility
+  1933→
+  1934→Animation Standards
+  1935→
+  1936→Responsive Guidelines
+  1937→
+  1938→Theme Usage
+  1939→
+  1940→Design Tokens
+  1941→
+  1942→Naming Conventions
+  1943→
+  1944→---
+  1945→
+  1946→# Quality Requirements
+  1947→
+  1948→Every component must:
+  1949→
+  1950→Be reusable
+  1951→
+  1952→Be accessible
+  1953→
+  1954→Be responsive
+  1955→
+  1956→Support dark mode
+  1957→
+  1958→Support animations
+  1959→
+  1960→Support TypeScript
+  1961→
+  1962→Support future expansion
+  1963→
+  1964→Have consistent API
+  1965→
+  1966→Have clean architecture
+  1967→
+  1968→Be optimized
+  1969→
+  1970→Be production-ready
+  1971→
+  1972→---
+  1973→
+  1974→# Deliverables
+  1975→
+  1976→At the end of Phase 2 generate:
+  1977→
+  1978→1. Enterprise Design System
+  1979→2. Complete Design Tokens
+  1980→3. Luxury Color Palette
+  1981→4. Typography System
+  1982→5. Component Library
+  1983→6. Motion Design System
+  1984→7. Glassmorphism Guidelines
+  1985→8. Gradient Library
+  1986→9. Shadow System
+  1987→10. Responsive Design System
+  1988→11. Accessibility Standards
+  1989→12. Theme Architecture
+  1990→13. Icon Guidelines
+  1991→14. Component Documentation
+  1992→15. Design System Documentation
+  1993→
+  1994→---
+  1995→
+  1996→# Rules
+  1997→
+  1998→* Do not build any ecommerce pages.
+  1999→* Do not create business logic.
+  2000→* Do not hardcode colors, spacing, or typography.
+
+[showing lines 1-2000 of 25771; use offset=2001 with limit to continue reading]
